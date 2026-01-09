@@ -13,10 +13,4 @@ This is a complete git course
 
 # This is commit 4
 
-<<<<<<< HEAD
-# This is commit 5
-
-
-
-=======
->>>>>>> parent of c0e0d79 (commit-2)
+# This is priority task
